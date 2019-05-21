@@ -10,7 +10,7 @@ from tensorflow.examples.tutorials.mnist import input_data
 # In[7]:
 
 
-mnist = input_data.read_data_sets("第03周/MNIST_data",one_hot=True)
+mnist = input_data.read_data_sets("data_set/MNIST_data",one_hot=True)
 
 
 # In[8]:
